@@ -1,11 +1,11 @@
-# TuteDude_Assignments
+# TuteDude_Assignments_1
 # Python Task Scripts
 
 This repository contains two Python scripts:
 
 ## Files:
-- `task1.py`: [Check if a Number is Even or Odd]
-- `task2.py`: [Sum of Integers from 1 to 50 Using a Loop]
+- `task1.py`: [Perform Basic Mathematical Operations]
+- `task2.py`: [Create a Personalized Greeting]
 
 ## How to Run
 ```bash
