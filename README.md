@@ -4,8 +4,8 @@
 This repository contains two Python scripts:
 
 ## Files:
-- `task1.py`: [Perform Basic Mathematical Operations]
-- `task2.py`: [Create a Personalized Greeting]
+- `task1.py`: [Check if a Number is Even or Odd]
+- `task2.py`: [Sum of Integers from 1 to 50 Using a Loop]
 
 ## How to Run
 ```bash
